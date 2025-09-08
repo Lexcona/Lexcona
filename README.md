@@ -1,4 +1,4 @@
-Copied from [lexcona.xyz](https://lexcona.xyz/about-me)
+Copied from [lexcona.xyz/about-me](https://lexcona.xyz/about-me)
 
 # About Me
 
