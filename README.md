@@ -16,7 +16,6 @@ I use a JetBrains IDE called [Rider](https://www.jetbrains.com/rider/).
 
 Python (5 years)  
 C# (2 years)  
-JavaScript (2 years)  
 
 ## Contact
 You can contact me over on Matrix, at [@lexcona:matrix.org](https://matrix.to/#/@lexcona:matrix.org)
